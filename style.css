@@ -1,0 +1,39 @@
+* {
+     background-color: mistyrose;
+}
+
+#rubrik-1 {
+     color:darkslateblue;
+}
+
+#rubrik-2 {
+     color:mediumorchid;
+}
+
+#result {
+     width: 60;
+     height: 40px;
+     border: 1px solid black;
+     margin: 5px 5px 5px 0;
+     background: white;
+}
+
+#tal-1 {
+     background: white;
+}
+
+#tal-2 {
+     background:white;
+}
+
+#inputNumber {
+     background: white;
+}
+
+#todo {
+     background: white;
+}
+
+li {
+     list-style-type:circle;
+}
